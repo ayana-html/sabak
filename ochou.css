@@ -1,0 +1,29 @@
+.box{
+    background-color: rgb(255, 255, 255);
+    width: 350px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    border-top-right-radius: 35px;
+}
+body{
+    background-color: rgb(211, 205, 205);
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+    height: 100px; 
+    justify-content: space-around;
+}
+
+h5{
+    color: orange;
+}
+
+button{
+    background-color: black;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 2px;
+}
